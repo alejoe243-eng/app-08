@@ -27,11 +27,11 @@ public class main {
 
         switch(opcion) {
             case 1:
-
+                salario = salario + (salario * 0.25);
+                break;
             case 2:
 
             case 3:
 
         }
-    }
-}
+    
